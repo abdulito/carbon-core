@@ -1,0 +1,29 @@
+{
+  "name": "carbon-core",
+  "version": "0.1.0",
+  "description": "Carbon core",
+  "keywords": ["carbon-core", "carbon.io"],
+  "contributors": [
+    "Greg Banks <greg@objectlabs.com>"
+  ],
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/carbon-io/carbon-core.git"
+  },
+  
+  "main": "./lib/carbon-core.js",
+  "directories" : {
+    "lib" : "./lib"
+  },
+  "engines": { "node": ">=4.0.0" },
+  "dependencies" : {
+    "atom": "git+ssh://git@github.com:carbon-io/atom.git#v0.2.23",
+    "bond": "git+ssh://git@github.com:carbon-io/bond.git#v0.1.19",
+    "@carbon-io/fibers": "git+ssh://git@github.com:carbon-io/fibers.git#v0.3.3",
+    "leafnode": "git+ssh://git@github.com:objectlabs/leafnode.git#v3.2.1",
+    "ejson": "git+ssh://git@github.com:carbon-io/ejson.git#v0.0.5",
+    "test-tube": "git+ssh://git@github.com:carbon-io/test-tube.git#v0.1.16",
+    "http-errors": "git+ssh://git@github.com:carbon-io/http-errors.git#v0.0.4"
+  },
+  "preferGlobal": false
+}
