@@ -1,6 +1,6 @@
 {
   "name": "@carbon-io/carbon-core",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Carbon core",
   "keywords": ["carbon-core", "carbon.io"],
   "contributors": [
@@ -17,7 +17,7 @@
   },
   "engines": { "node": ">=4.0.0" },
   "dependencies" : {
-    "@carbon-io/atom": "carbon-io/atom.git#v0.3.4",
+    "@carbon-io/atom": "carbon-io/atom.git#v0.3.5",
     "@carbon-io/bond": "carbon-io/bond.git#v0.2.2",
     "@carbon-io/fibers": "carbon-io/fibers.git#v0.3.4",
     "@carbon-io/ejson": "carbon-io/ejson.git#v0.1.2",
