@@ -1,6 +1,6 @@
 {
   "name": "@carbon-io/carbon-core",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Carbon core",
   "keywords": ["carbon-core", "carbon.io"],
   "contributors": [
@@ -17,12 +17,12 @@
   },
   "engines": { "node": ">=4.0.0" },
   "dependencies" : {
-    "@carbon-io/atom": "carbon-io/atom.git#v0.3.5",
-    "@carbon-io/bond": "carbon-io/bond.git#v0.2.2",
-    "@carbon-io/fibers": "carbon-io/fibers.git#v0.3.4",
-    "@carbon-io/ejson": "carbon-io/ejson.git#v0.1.2",
-    "@carbon-io/test-tube": "carbon-io/test-tube.git#v0.2.4",
-    "@carbon-io/http-errors": "carbon-io/http-errors.git#v0.1.0"
+    "@carbon-io/atom": "~0.3.8",
+    "@carbon-io/bond": "~0.2.3",
+    "@carbon-io/fibers": "~0.3.5",
+    "@carbon-io/ejson": "~0.1.3",
+    "@carbon-io/test-tube": "~0.2.5",
+    "@carbon-io/http-errors": "~0.1.0"
   },
   "preferGlobal": false
 }
