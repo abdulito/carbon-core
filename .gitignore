@@ -1,0 +1,15 @@
+# node
+
+node_modules/*
+
+# vim
+
+*.sw[po]
+
+# pyenv
+
+.python-version
+
+# docs
+
+docs/_build/*
