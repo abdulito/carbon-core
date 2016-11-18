@@ -1,24 +1,18 @@
 [submodule "docs/packages/http-errors"]
 	path = docs/packages/http-errors
 	url = https://github.com/carbon-io/http-errors.git
-	branch = integrate-docs
 [submodule "docs/packages/bond"]
 	path = docs/packages/bond
 	url = https://github.com/carbon-io/bond.git
-	branch = integrate-docs
 [submodule "docs/packages/atom"]
 	path = docs/packages/atom
 	url = https://github.com/carbon-io/atom.git
-	branch = integrate-docs
 [submodule "docs/packages/test-tube"]
 	path = docs/packages/test-tube
 	url = https://github.com/carbon-io/test-tube.git
-	branch = integrate-docs
 [submodule "docs/packages/fibers"]
 	path = docs/packages/fibers
 	url = https://github.com/carbon-io/fibers.git
-	branch = integrate-docs
 [submodule "docs/packages/ejson"]
 	path = docs/packages/ejson
 	url = https://github.com/carbon-io/ejson.git
-	branch = integrate-docs
