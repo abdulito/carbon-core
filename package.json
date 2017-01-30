@@ -21,12 +21,13 @@
         "node": ">=4.0.0"
     }, 
     "dependencies": {
-        "@carbon-io/atom": "0.3.x", 
-        "@carbon-io/bond": "0.2.x", 
-        "@carbon-io/fibers": "0.3.x", 
-        "@carbon-io/ejson": "0.1.x", 
-        "@carbon-io/test-tube": "0.2.x", 
-        "@carbon-io/http-errors": "0.1.x"
+        "@carbon-io/atom": "0.4.x", 
+        "@carbon-io/bond": "0.3.x", 
+        "@carbon-io/ejson": "0.2.x", 
+        "@carbon-io/fibers": "0.4.x", 
+        "@carbon-io/http-errors": "0.1.x",
+        "@carbon-io/leafnode": "0.1.x",
+        "@carbon-io/test-tube": "0.3.x"
     }, 
     "preferGlobal": false
 }
