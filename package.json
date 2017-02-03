@@ -29,6 +29,10 @@
         "@carbon-io/leafnode": "0.1.x", 
         "@carbon-io/test-tube": "0.3.x"
     },
+    "devDependencies": {
+        "mockery": "2.0.x",
+        "sinon" : "1.17.x"
+    },
     "scripts": {
       "test": "node test"
     },

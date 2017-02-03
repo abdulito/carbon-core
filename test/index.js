@@ -4,6 +4,6 @@ var testtube = require('@carbon-io/test-tube')
 
 module.exports = o({
   _type: testtube.Test,
-  name: 'CarbonCoreTests',
-  tests: require('@carbon-io/fibers').getTests()
+  name: 'FibersTests',
+  tests: require('@carbon-io/fibers')._Test()
 })
