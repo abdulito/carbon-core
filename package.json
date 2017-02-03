@@ -24,10 +24,13 @@
         "@carbon-io/atom": "0.4.x", 
         "@carbon-io/bond": "0.3.x", 
         "@carbon-io/ejson": "0.2.x", 
-        "@carbon-io/fibers": "0.4.x", 
+        "@carbon-io/fibers": "git://github.com/carbon-io/fibers.git#test-export", 
         "@carbon-io/http-errors": "0.1.x", 
         "@carbon-io/leafnode": "0.1.x", 
         "@carbon-io/test-tube": "0.3.x"
-    }, 
+    },
+    "scripts": {
+      "test": "node test"
+    },
     "preferGlobal": false
 }
