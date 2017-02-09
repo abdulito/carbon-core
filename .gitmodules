@@ -16,3 +16,6 @@
 [submodule "docs/packages/ejson"]
 	path = docs/packages/ejson
 	url = git@github.com:carbon-io/ejson.git
+[submodule "docs/common"]
+	path = docs/common
+	url = git@github.com:carbon-io/docs-common.git
