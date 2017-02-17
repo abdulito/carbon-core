@@ -5,5 +5,5 @@ var testtube = require('@carbon-io/test-tube')
 module.exports = o({
   _type: testtube.Test,
   name: 'FibersTests',
-  tests: require('@carbon-io/fibers')._Test()
+  tests: require('@carbon-io/fibers').$Test
 })
