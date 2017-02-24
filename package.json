@@ -22,7 +22,7 @@
     }, 
     "dependencies": {
         "@carbon-io/atom": "0.4.x", 
-        "@carbon-io/bond": "0.3.x", 
+        "@carbon-io/bond": "git://github.com/carbon-io/bond.git#test-exports", 
         "@carbon-io/ejson": "0.2.x", 
         "@carbon-io/fibers": "git://github.com/carbon-io/fibers.git#test-export", 
         "@carbon-io/http-errors": "0.1.x", 
