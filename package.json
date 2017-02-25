@@ -21,7 +21,7 @@
         "node": ">=4.0.0"
     }, 
     "dependencies": {
-        "@carbon-io/atom": "0.4.x", 
+        "@carbon-io/atom": "git://github.com/carbon-io/atom.git#test-exports", 
         "@carbon-io/bond": "git://github.com/carbon-io/bond.git#test-exports", 
         "@carbon-io/ejson": "0.2.x", 
         "@carbon-io/fibers": "git://github.com/carbon-io/fibers.git#test-export", 

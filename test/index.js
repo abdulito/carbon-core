@@ -5,7 +5,11 @@ var testtube = require('@carbon-io/test-tube')
 var tests = o({
   _type: testtube.Test,
   name: 'CarbonCoreTests',
-  tests: [require('@carbon-io/fibers').$Test, require('@carbon-io/bond').$Test]
+  tests: [
+    require('@carbon-io/fibers').$Test, 
+    require('@carbon-io/bond').$Test,
+    require('@carbon-io/atom').$Test
+  ]
 })
 
 module.exports = tests
