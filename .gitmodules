@@ -19,3 +19,6 @@
 [submodule "docs/common"]
 	path = docs/common
 	url = git@github.com:carbon-io/docs-common.git
+[submodule "docs/packages/leafnode"]
+	path = docs/packages/leafnode
+	url = git@github.com:carbon-io/leafnode.git
