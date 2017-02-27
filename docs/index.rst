@@ -1,22 +1,14 @@
-.. carbon-core documentation master file, created by
-   sphinx-quickstart on Tue Nov 15 20:46:46 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===========
+Carbon core
+===========
 
-Welcome to carbon-core's documentation!
-=======================================
+Carbon.io is built on several core infrastructure components.
 
-Contents:
+.. toctree:: 
+   :maxdepth: 1
 
-.. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   packages/atom/docs/index
+   packages/bond/docs/index
+   packages/fibers/docs/index
+   packages/leaf-node/docs/index
+   packages/test-tube/docs/index
