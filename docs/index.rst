@@ -10,5 +10,5 @@ Carbon.io is built on several core infrastructure components.
    packages/atom/docs/index
    packages/bond/docs/index
    packages/fibers/docs/index
-   packages/leaf-node/docs/index
+   packages/leafnode/docs/index
    packages/test-tube/docs/index
