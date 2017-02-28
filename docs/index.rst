@@ -1,3 +1,5 @@
+.. _carbon-core-docs:
+
 ===========
 Carbon core
 ===========
