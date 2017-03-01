@@ -31,7 +31,8 @@
     },
     "devDependencies": {
         "mockery": "2.0.x",
-        "sinon" : "1.17.x"
+        "sinon" : "1.17.x",
+        "@carbon-io/carbon-client-node": "git://github.com/carbon-io/carbon-client-node.git#test-exports"
     },
     "scripts": {
       "test": "node test"

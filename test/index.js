@@ -9,7 +9,8 @@ var tests = o({
     require('@carbon-io/fibers').$Test, 
     require('@carbon-io/bond').$Test,
     require('@carbon-io/atom').$Test,
-    require('@carbon-io/test-tube').$Test
+    require('@carbon-io/test-tube').$Test,
+    require('@carbon-io/carbon-client-node').$Test
   ]
 })
 
