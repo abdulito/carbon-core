@@ -26,13 +26,12 @@
         "@carbon-io/ejson": "0.2.x", 
         "@carbon-io/fibers": "git://github.com/carbon-io/fibers.git#test-export", 
         "@carbon-io/http-errors": "0.1.x", 
-        "@carbon-io/leafnode": "0.1.x", 
+        "@carbon-io/leafnode": "git://github.com/carbon-io/leafnode.git#test-exports", 
         "@carbon-io/test-tube": "git://github.com/carbon-io/test-tube.git#test-exports"
     },
     "devDependencies": {
         "mockery": "2.0.x",
-        "sinon" : "1.17.x",
-        "@carbon-io/carbon-client-node": "git://github.com/carbon-io/carbon-client-node.git#test-exports"
+        "sinon" : "1.17.x"
     },
     "scripts": {
       "test": "node test"
