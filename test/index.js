@@ -10,8 +10,7 @@ var tests = o({
     require('@carbon-io/bond').$Test,
     require('@carbon-io/atom').$Test,
     require('@carbon-io/test-tube').$Test,
-    require('@carbon-io/leafnode').$Test,
-    require('@carbon-io/carbond').$Test
+    require('@carbon-io/leafnode').$Test
   ]
 })
 
