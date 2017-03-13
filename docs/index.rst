@@ -6,8 +6,9 @@ Carbon core
 
 Carbon.io is built on several core infrastructure components.
 
-.. toctree:: 
-   :maxdepth: 0
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
    packages/atom/docs/index
    packages/bond/docs/index
