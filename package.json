@@ -1,33 +1,33 @@
 {
-    "name": "@carbon-io/carbon-core",
-    "version": "0.5.0",
-    "description": "Carbon core",
+    "name": "@carbon-io/carbon-core", 
+    "version": "0.5.1", 
+    "description": "Carbon core", 
     "keywords": [
-        "carbon-core",
+        "carbon-core", 
         "carbon.io"
-    ],
+    ], 
     "contributors": [
         "Greg Banks <greg@objectlabs.com>"
-    ],
+    ], 
     "repository": {
-        "type": "git",
+        "type": "git", 
         "url": "https://github.com/carbon-io/carbon-core"
-    },
-    "main": "./lib/carbon-core.js",
+    }, 
+    "main": "./lib/carbon-core.js", 
     "directories": {
         "lib": "./lib"
-    },
+    }, 
     "engines": {
         "node": ">=4.0.0"
-    },
+    }, 
     "dependencies": {
-        "@carbon-io/atom": "0.6.x",
-        "@carbon-io/bond": "0.5.x",
-        "@carbon-io/ejson": "0.4.x",
-        "@carbon-io/fibers": "0.6.x",
-        "@carbon-io/http-errors": "0.1.x",
-        "@carbon-io/leafnode": "0.3.x",
+        "@carbon-io/atom": "0.6.x", 
+        "@carbon-io/bond": "0.5.x", 
+        "@carbon-io/ejson": "0.4.x", 
+        "@carbon-io/fibers": "0.6.x", 
+        "@carbon-io/http-errors": "0.1.x", 
+        "@carbon-io/leafnode": "0.3.x", 
         "@carbon-io/test-tube": "0.5.x"
-    },
+    }, 
     "preferGlobal": false
 }
