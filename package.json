@@ -29,5 +29,10 @@
         "@carbon-io/leafnode": "0.4.x", 
         "@carbon-io/test-tube": "0.6.x"
     }, 
+    "devDependencies": {
+        "mockery": "2.0.x",
+        "sinon": "1.17.x",
+        "express": "4.x"
+    },
     "preferGlobal": false
 }
