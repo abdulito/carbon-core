@@ -1,6 +1,6 @@
 {
     "name": "@carbon-io/carbon-core", 
-    "version": "0.6.3", 
+    "version": "0.6.4", 
     "description": "Carbon core", 
     "keywords": [
         "carbon-core", 
@@ -30,9 +30,9 @@
         "@carbon-io/test-tube": "0.6.x"
     }, 
     "devDependencies": {
-        "mockery": "2.0.x",
-        "sinon": "1.17.x",
+        "mockery": "2.0.x", 
+        "sinon": "1.17.x", 
         "express": "4.x"
-    },
+    }, 
     "preferGlobal": false
 }
