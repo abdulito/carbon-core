@@ -1,7 +1,7 @@
 .. _carbon-core-docs:
 
 ===========
-Carbon core
+Carbon Core
 ===========
 
 Carbon.io is built on several core infrastructure components.
