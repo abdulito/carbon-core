@@ -1,6 +1,10 @@
 {
     "name": "@carbon-io/carbon-core", 
+<<<<<<< HEAD
     "version": "0.6.8", 
+=======
+    "version": "0.6.9", 
+>>>>>>> f7c85ffd8cb8514f026c7df64e9ce0d3d3895bad
     "description": "Carbon core", 
     "keywords": [
         "carbon-core", 
