@@ -1,6 +1,6 @@
 {
     "name": "@carbon-io/carbon-core", 
-    "version": "0.6.20", 
+    "version": "0.6.21", 
     "description": "Carbon core", 
     "keywords": [
         "carbon-core", 
@@ -21,7 +21,7 @@
         "node": ">=4.0.0"
     }, 
     "dependencies": {
-        "@carbon-io/atom": "0.7.9", 
+        "@carbon-io/atom": "0.7.x", 
         "@carbon-io/bond": "0.6.x", 
         "@carbon-io/ejson": "0.5.x", 
         "@carbon-io/fibers": "0.7.x", 
