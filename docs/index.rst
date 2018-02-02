@@ -10,7 +10,7 @@ Carbon.io is built on several core infrastructure components.
    :maxdepth: 1
    :titlesonly:
 
-   packages/atom/docs/index
+   packages/atom/docs/guide/index
    packages/bond/docs/index
    packages/fibers/docs/guide/index
    packages/leafnode/docs/index
